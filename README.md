@@ -2,7 +2,7 @@
 
 **Nama:** Muhammad Raka Fadillah  
 **NIM:** 231011402919  
-**Kelas:** 05TPLE005
+**Kelas:** Reg C
 
 ## File proyek
 
